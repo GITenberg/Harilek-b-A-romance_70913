@@ -1,11 +1,16 @@
 _repo: Harilek-b-A-romance_70913
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70913-h/images/cover.jpg
 creator:
   author:
     agent_name: GANPAT
     gutenberg_agent_id: '55994'
     url: http://www.gutenberg.org/2009/agents/55994
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70913#Harilek-b-A-romance
 gutenberg_issued: '2023-06-05'
 identifiers:
   gutenberg: '70913'
